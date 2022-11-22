@@ -1,5 +1,5 @@
 package app_say_hello
 
-func AppSayHello() {
+func AppSayHello() string {
 	return "App Say Hello"
 }
